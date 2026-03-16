@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Lucas 👋
+# Olá, eu sou o Lucas Mauril👋
 
 **Desenvolvedor Back-End** · Estudante · Maker
 
