@@ -62,5 +62,5 @@
 </div>
 
 <div align="center">
-<sub>Feito com 💙 por Lucas Mauril</sub>
+<sub></sub>
 </div>
