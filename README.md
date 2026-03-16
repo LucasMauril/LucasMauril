@@ -10,14 +10,6 @@
 
 ---
 
-### 🧑‍💻 Sobre mim
-
-- 🔭 Atualmente trabalhando em **projetos de IoT e automação solar**
-- 🌱 Aprendendo mais sobre **APIs, back-end e eletrônica**
-- ⚡ Gosto de unir **software + hardware** em projetos reais
-- 📍 Brasil
-
----
 
 ### 🛠️ Tecnologias
 
