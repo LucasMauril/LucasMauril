@@ -10,7 +10,6 @@
 
 ---
 
-
 ### 🛠️ Tecnologias
 
 <div align="center">
@@ -57,9 +56,11 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-LucasMauril-181717?style=flat-square&logo=github)](https://github.com/LucasMauril)
+[![X](https://img.shields.io/badge/X-lukinnhas-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/lukinnhas)
+[![Discord](https://img.shields.io/badge/Discord-lukinnhass-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/lukinnhass)
 
 </div>
 
 <div align="center">
-<sub></sub>
+<sub>Feito com 💙 por Lucas Mauril</sub>
 </div>
