@@ -1,66 +1,59 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=220&section=header&text=Lucas%20Mauril&fontSize=80&animation=fadeIn" />
 
-# Olá, eu sou o Lucas Mauril👋
+  ### ⚡ Hey there, I'm Lucas!
+  **Back-End Developer | Estudante | Maker**
+  *Transformando lógica em soluções e hardware em automação.*
 
-**Desenvolvedor Back-End** · Estudante · Maker
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6C8AFF&center=true&vCenter=true&width=435&lines=Back-end+developer;Arduino+%26+IoT+enthusiast;Always+learning+something+new...)](https://git.io/typing-svg)
-
+  ---
 </div>
+
+## 👨‍💻 Sobre Mim
+
+* 🎓 Estudante de Desenvolvimento de Sistemas focado em Back-end.
+* ⚡ Apaixonado pelo ecossistema Maker e projetos com **Arduino/ESP32**.
+* 🔍 Constantemente me aprimorando através da **Alura** e **Fundação Bradesco**.
+* 💡 Criador do projeto **Monitor Solar** (Dashboard IoT para energia renovável).
 
 ---
 
-### 🛠️ Tecnologias
+## 🛠️ Tech Stack
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,arduino,cpp,java,cs,git,mysql,linux" />
+</p>
 
 ---
 
-### 📌 Projeto em destaque
+## 📜 Certificações & Cursos
 
-<div align="center">
-
-[![Monitor Solar](https://github-readme-stats.vercel.app/api/pin/?username=LucasMauril&repo=Monitor-Solar-App&theme=tokyonight&hide_border=true)](https://github.com/LucasMauril/Monitor-Solar-App)
-
-</div>
-
-> 🌞 **Monitor Solar** — Dashboard em tempo real para painéis solares com Arduino.  
-> Tracker 2 eixos, histórico SD Card, relatório PDF e modo simulação.
-
----
-
-### 📊 Estatísticas
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=LucasMauril&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMauril&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-
-</div>
+| Certificação | Instituição | Status |
+| :--- | :--- | :--- |
+| ☕ Java & Orientação a Objetos | Alura | ✅ Concluído |
+| 🐍 Python para Data Science | Fundação Bradesco | ✅ Concluído |
+| 🧠 Lógica de Programação | Fundação Bradesco | ✅ Concluído |
+| 🌐 Desenvolvimento Web Front-end | Alura | 🔄 Em Andamento |
+| 🤖 Eletrônica Aplicada (IoT) | Alura | ✅ Concluído |
 
 ---
 
-### 🔗 Contato
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasMauril&theme=tokyonight" alt="GitHub Streak" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasMauril&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+---
+
+## 🤝 Vamos nos conectar?
+
+<p align="center">
+  <a href="mailto:seu-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.com/users/seu_id_discord"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://x.com/lukinnhas"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+</p>
 
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-LucasMauril-181717?style=flat-square&logo=github)](https://github.com/LucasMauril)
-[![X](https://img.shields.io/badge/X-lukinnhas-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/lukinnhas)
-[![Discord](https://img.shields.io/badge/Discord-lukinnhass-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/lukinnhass)
-
-</div>
-
-<div align="center">
-<sub></sub>
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=120&section=footer" />
 </div>
