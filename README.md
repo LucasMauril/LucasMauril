@@ -27,19 +27,6 @@
   </a>
 </p>
 
----
-
-## 📜 Certificações & Cursos
-
-| Certificação | Instituição | Status |
-| :--- | :--- | :--- |
-| ☕ Java & Orientação a Objetos | Alura | ✅ Concluído |
-| 🐍 Python para Data Science | Fundação Bradesco | ✅ Concluído |
-| 🧠 Lógica de Programação | Fundação Bradesco | ✅ Concluído |
-| 🌐 Desenvolvimento Web Front-end | Alura | 🔄 Em Andamento |
-| 🤖 Eletrônica Aplicada (IoT) | Alura | ✅ Concluído |
-
----
 
 ## 📊 GitHub Stats
 
