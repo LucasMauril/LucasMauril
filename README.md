@@ -1,9 +1,9 @@
 <div align="center">
 
 # Lucas Mauril 👋
-**Software Engineer & Systems Builder | Back-End, Low-Level & IoT**
+**Software Engineer & Systems Builder | Back-End, Low-Level Kernel & IoT**
 
-*Transformando lógica em sistemas escaláveis, código em automação e hardware em soluções reais.*
+*Transformando lógica em sistemas escaláveis, código em automação de alta performance e hardware em soluções reais.*
 
 ---
 
@@ -11,16 +11,33 @@
 
 ## 👨‍💻 Sobre Mim
 
-* 🎓 **Estudante e Desenvolvedor (16 anos)** focado em Engenharia de Software, arquitetura de sistemas, concorrência e cibersegurança.
-* ⚔️ **[Discord Quest](https://github.com/LucasMauril/Discord-Quest):** Plataforma de automação em TypeScript 5.7 e Node.js 22 com pool de subprocessos IPC, Fastify 5.0 com Server-Sent Events (SSE), SQLite via TypeORM, roteamento por proxies residenciais contra bloqueios HTTP 403 e paridade total em 7 idiomas.
-* ⚡ **[Luc Optimization](https://github.com/LucasMauril/Luc-Optimization):** Software desktop nativo em C# (.NET 8 WPF/XAML) para tuning de baixo nível do Windows: resolução de timer (`NtSetTimerResolution` a 0.5ms), roteamento de interrupções IRQ em MSI Mode, afinidade de CPU dedicada, desativação do algoritmo de Nagle (TCP NoDelay) e backend com HWID Lock.
-* ☀️ **[GiraSoul / Monitor Solar](https://github.com/LucasMauril/GiraSoul-app):** Solução completa de IoT com firmware embarcado em C++ (ESP32/Arduino) para rastreamento solar dinâmico e telemetria de geração de energia limpa em tempo real.
-* 🛡️ **[Kahoot Ghost & Reverse Engineering](https://github.com/LucasMauril/Kahoot-cheat):** Automação e análise de protocolos em tempo real com OCR óptico (IA/Tesseract), cruzamento de identificadores UUID e orquestração de bots via WebSockets.
-* 🏆 Participante da **OBI** (Olimpíada Brasileira de Informática) e em constante evolução técnica (Alura & Fundação Bradesco).
+* 🎓 **Desenvolvedor de 16 anos** focado em Engenharia de Software, arquitetura de sistemas concorrentes, baixo nível e IoT.
+* ⚡ Especialista em automação de fluxos complexos, tuning de latência no kernel do Windows NT, engenharia reversa de protocolos e desenvolvimento de sistemas embarcados resilientes.
+* 🏆 Participante da **OBI** (Olimpíada Brasileira de Informática) e em constante aprimoramento autodidata e acadêmico (Alura & Fundação Bradesco).
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Projetos em Destaque
+
+* ⚔️ **[Discord Quest](https://github.com/LucasMauril/Discord-Quest):** Plataforma autônoma de automação multi-contas em **TypeScript 5.7** e **Node.js 22**.
+  * **Arquitetura:** Pool de subprocessos IPC (`ChildManager`) com isolamento de memória, fila sequencial FIFO e agendamento autônomo via `node-cron` (varreduras multi-região a cada 6h e backup diário do SQLite enviado na DM privada às 03:00).
+  * **Interfaces & Rede:** Dashboard web glassmorphic em **Fastify 5.0** com Server-Sent Events (SSE), painel de controle interativo no Discord com recuperação automática, despachante de webhooks com embeds ricos e emulação desktop com rotação de proxies residenciais para evasão de bloqueios HTTP 403. Paridade estrita de 100% em **7 idiomas**.
+
+* ⚡ **[Luc Optimization](https://github.com/LucasMauril/Luc-Optimization):** Suíte nativa Windows em **C# (.NET 8 WPF/XAML)** para tuning de baixo nível do Kernel NT e redução extrema de input lag.
+  * **Engenharia de Kernel:** Resolução de timer cravada em **0.500 ms** (`NtSetTimerResolution`), mitigação de FTH (Fault Tolerant Heap), priorização de threads via `Win32PrioritySeparation`, roteamento de interrupções IRQ em MSI Mode e consolidação de serviços (redução para 55–75 processos limpos).
+  * **Motor FiveM & Interface:** Integração com **OptiScaler v0.9.4** com Frame Generation (OptiFG até 4x), HUD overlay topmost sincronizado com compositor DWM (`DwmFlush`), Chromix Display Studio (Win32 GDI gamma e saturação na GPU) e interface OLED Pitch-Black em WebView2 com mapa neural reativo. Backend em Node.js com proteção HWID Lock.
+
+* 🌻 **[Gira Soul](https://github.com/LucasMauril/GiraSoul-app):** Ecossistema IoT de borda e nuvem para rastreamento solar dinâmico de 2 eixos e telemetria de energia limpa.
+  * **Hardware & Borda:** Firmware embarcado em **C++** no **Arduino Mega 2560** (cálculo vetorial da luz com 4 LDRs, controle de servomotores Azimute/Elevação e sensoriamento de corrente/tensão via **INA219** I2C) integrado a bridge Wi-Fi em **ESP32** com WiFiManager e watchdog tolerante a falhas.
+  * **Nuvem & Desktop:** Backend em **Python Flask** hospedado na **Oracle Cloud** com validação de segurança criptográfica via MAC Address físico e streaming SSE em tempo real. Interface desktop em PyWebView com gêmeo digital 3D interativo (**Three.js**).
+
+* 👻 **[Kahoot Ghost](https://github.com/LucasMauril/Kahoot-cheat):** Bot e suíte de pesquisa em cibersegurança e engenharia reversa de protocolos WebSocket em tempo real.
+  * **Infiltração & OCR:** Motor de automação via WebSockets com modos táticos configuráveis (Modo Tryhard a 0.2s e Modo Disfarce com delay humanizado de 3–7s). Pipeline de OCR óptico (**Jimp + Tesseract.js**) com escala de cinza e auto-contraste para extração imediata de UUIDs a partir de fotos em baixa iluminação ou ângulos oblíquos.
+  * **Operação Furtiva:** Filtro ultrarrápido de questões (`!q`), mapeamento de cores/símbolos oficiais, alertas táticos de pontuação e protocolo anti-forense com autodestruição programada de 20 minutos e botão de pânico emergencial.
+
+---
+
+## 🛠️ Tech Stack & Ferramentas
 
 <p align="center">
   <a href="https://skillicons.dev">
