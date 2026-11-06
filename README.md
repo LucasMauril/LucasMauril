@@ -1,11 +1,9 @@
 <div align="center">
 
 # Lucas Mauril 👋
-**Software Engineer & Systems Builder | Back-End, Automação & IoT**
+**Software Engineer & Systems Builder | Back-End, IoT & Cibersegurança**
 
-*Transformando arquitetura em sistemas resilientes, código em automação e hardware em soluções reais.*
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LucasMauril&theme=tokyonight)](https://git.io/streak-stats)
+*Transformando lógica em soluções, código em automação e hardware em sistemas reais.*
 
 ---
 
@@ -13,49 +11,37 @@
 
 ## 👨‍💻 Sobre Mim
 
-* ⚙️ **Desenvolvedor focado em Engenharia de Software e Cibersegurança:** Construo arquiteturas back-end com foco em concorrência, segurança defensiva e integridade de dados.
-* 🚀 **Automação & Sistemas Autônomos:** Criador do **[Discord Quest](https://github.com/LucasMauril/Discord-Quest)**, engine de automação corporativa em TypeScript com pool de subprocessos IPC, dashboard Web Fastify em tempo real (SSE) e 7 idiomas nativos.
-* ⚡ **Hardware & Ecossistema Maker:** Desenvolvimento de soluções embarcadas em **C++ / ESP32 / Arduino**, integrando telemetria em tempo real no projeto **Monitor Solar** (Dashboard IoT para eficiência energética).
-* 🛡️ **Segurança Prática:** Aplicação de princípios de defesa em profundidade, isolamento de credenciais, roteamento por proxies residenciais e laboratórios defensivos.
+* 🎓 **Estudante (16 anos)** focado em Engenharia de Software, arquitetura de sistemas escaláveis e cibersegurança.
+* ⚔️ **[Discord Quest](https://github.com/LucasMauril/Discord-Quest):** Engine autônoma em TypeScript com pool de subprocessos IPC, dashboard Web Fastify em tempo real (SSE), evasão de detecção com proxies e suporte nativo a 7 idiomas.
+* ☀️ **[GiraSoul / Monitor Solar](https://github.com/LucasMauril/GiraSoul-app):** Solução completa de IoT com firmware embarcado em C++ (ESP32/Arduino) para rastreamento solar inteligente e dashboard de telemetria de energia limpa.
+* ⚡ **Luc Optimization:** Software desktop desenvolvido em C# e .NET (WPF/XAML) com foco em ajuste fino de drivers, otimização de latência e ganho de performance do sistema operacional.
+* 🛡️ **Pesquisa em Cibersegurança & Engenharia Reversa:** Desenvolvimento de ferramentas de automação e inspeção de pacotes WebSocket em tempo real para testes de estresse e segurança defensiva.
+* 🏆 Participante da **OBI** (Olimpíada Brasileira de Informática) e em constante aprimoramento contínuo (Alura & Fundação Bradesco).
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,fastify,sqlite,docker,cpp,c,arduino,py,git,githubactions,linux" />
+    <img src="https://skillicons.dev/icons?i=ts,js,cs,cpp,c,py,arduino,dotnet,fastify,sqlite,mysql,docker,git,linux" />
   </a>
 </p>
 
-```text
-• Back-End:      TypeScript • Node.js (v22+) • Fastify • Express • REST APIs • Server-Sent Events (SSE)
-• Banco & ORM:   SQLite • TypeORM • PostgreSQL • Modelagem Relacional
-• Sistemas/IoT:  ESP32 • Arduino • C/C++ • Sensores & Telemetria • IPC (Processos Filhos)
-• DevOps & Sec:  Docker • CI/CD (GitHub Actions) • PM2 • Linux VPS • Proxies SOCKS5/HTTP
-```
-
 ---
 
-## 🌟 Projetos em Destaque
-
-* ⚔️ **[Discord-Quest](https://github.com/LucasMauril/Discord-Quest):** Engine autônoma multi-contas com central interativa no Discord, proteção contra bloqueios de datacenter (HTTP 403), auto-claim de recompensas e cobertura multilíngue total.
-* ☀️ **Monitor Solar IoT:** Sistema embarcado de rastreamento e telemetria para painéis solares com envio de dados de geração em tempo real.
-
----
-
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMauril&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasMauril&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🤝 Contato & Conexões
+## 🤝 Vamos nos conectar?
 
 <p align="center">
   <a href="mailto:lucasmaurilmss2010@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.com/users/609703905835876365"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://x.com/lukinnhas"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://github.com/LucasMauril"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
