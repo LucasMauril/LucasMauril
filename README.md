@@ -1,7 +1,7 @@
 <div align="center">
 
 # Lucas Mauril 👋
-**Software Engineer & Systems Builder | Back-End, Low-Level Kernel & IoT**
+**Software Engineer & Systems Builder | Back-End, Low-Level Kernel, AI Agents & IoT**
 
 *Transformando lógica em sistemas escaláveis, código em automação de alta performance e hardware em soluções reais.*
 
@@ -12,12 +12,16 @@
 ## 👨‍💻 Sobre Mim
 
 * 🎓 **Desenvolvedor de 16 anos** focado em Engenharia de Software, arquitetura de sistemas concorrentes, baixo nível e IoT.
-* ⚡ Especialista em automação de fluxos complexos, tuning de latência no kernel do Windows NT, engenharia reversa de protocolos e desenvolvimento de sistemas embarcados resilientes.
+* ⚡ Especialista em automação de fluxos complexos, tuning de latência no kernel do Windows NT, engenharia reversa de protocolos, agentes autônomos de IA e desenvolvimento de sistemas embarcados resilientes.
 * 🏆 Participante da **OBI** (Olimpíada Brasileira de Informática) e em constante aprimoramento autodidata e acadêmico (Alura & Fundação Bradesco).
 
 ---
 
 ## 🚀 Projetos em Destaque
+
+* 🔥 **[Khaos Forge](https://github.com/LucasMauril/Khaos-Forge):** Framework e engine autônoma de cibersegurança ofensiva, pentest e DevSecOps para agentes de IA e operadores de terminal.
+  * **Arquitetura Cognitiva & MCP:** Servidor nativo baseado no **Model Context Protocol (MCP)** sobre `stdio` com máquina de estados hierárquica (**Pentest Task Tree - PTT**) para erradicação de saturação de contexto em LLMs e sincronização descentralizada de enxames via grafo P2P (**GunDB**).
+  * **Governança & Arsenal Sandboxed:** Trava inegociável de escopo pré-execução (`ScopeGuard` para subredes CIDR e FQDNs), motor anti-alucinação com verificação diferencial de PoCs e selo criptográfico SHA-256 (`EvidenceGate`). Suíte de ferramentas conteinerizada em **Docker** (Kali Linux + ProjectDiscovery Suite em Go) com monitoramento de telemetria de rede e budget de ruído.
 
 * ⚔️ **[Discord Quest](https://github.com/LucasMauril/Discord-Quest):** Plataforma autônoma de automação multi-contas em **TypeScript 5.7** e **Node.js 22**.
   * **Arquitetura:** Pool de subprocessos IPC (`ChildManager`) com isolamento de memória, fila sequencial FIFO e agendamento autônomo via `node-cron` (varreduras multi-região a cada 6h e backup diário do SQLite enviado na DM privada às 03:00).
@@ -41,7 +45,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,cs,cpp,c,py,arduino,dotnet,sqlite,mysql,docker,git,linux" />
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,cs,cpp,c,py,go,arduino,dotnet,sqlite,mysql,docker,git,linux" />
   </a>
 </p>
 
